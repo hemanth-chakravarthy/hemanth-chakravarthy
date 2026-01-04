@@ -3,6 +3,8 @@
 <!-- ============================= -->
 <!-- 💡 Typing Animation Banner -->
 <!-- ============================== -->
+<img width="1166" height="647" alt="github readme image" src="https://github.com/user-attachments/assets/2f180741-f897-4458-a2b1-9e2399969991" />
+
 <div align="center">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2000&pause=80&color=EF4444&center=true&multiline=true&repeat=false&width=800&height=117&lines=Hi+👋%2C+I'm+Hemanth+Chakravarthy!;Full-Stack+Developer;Final+Year+CSE+%40+IIIT+Sri+City" alt="Typing SVG"/>
