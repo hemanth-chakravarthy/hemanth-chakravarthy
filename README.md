@@ -5,7 +5,7 @@
 <!-- ============================== -->
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2000&pause=80&color=0EA5E9&center=true&multiline=true&repeat=false&width=800&height=117&lines=Hi+👋%2C+I'm+Hemanth+Chakravarthy!;Full-Stack+Developer+%26+ML+Enthusiast;Final+Year+CSE+%40+IIIT+Sri+City" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=800&size=31&duration=2000&pause=80&color=0EA5E9&center=true&multiline=true&repeat=false&width=800&height=117&lines=Hi+👋%2C+I'm+Hemanth+Chakravarthy!;Full-Stack+Developer;Final+Year+CSE+%40+IIIT+Sri+City" alt="Typing SVG"/>
     </a>
 </div>
 <br/>
@@ -15,22 +15,12 @@
     <h3>Building clean, intuitive and scalable applications ✨</h3>
     <p>I work across full-stack development, machine learning and UI/UX design.<br/>I love turning ideas into polished, usable products.</p>
 </div>
-
 <br/>
 
 <!-- ════════════ 🚀 QUICK FACTS ════════════ -->
 <div align="center">
 
-```javascript
-const hemanth = {
-    location: "IIIT Sri City",
-    education: "Final Year CSE Undergrad",
-    interests: ["Full-Stack Dev", "Machine Learning", "UI/UX Design"],
-    currentFocus: "MERN Stack Projects",
-    funFact: "I click good pictures 📸",
-    contact: "khchakri@gmail.com"
-};
-```
+
 
 </div>
 
@@ -86,20 +76,6 @@ const hemanth = {
 
 <br/>
 
-<!-- ════════════ 📊 GITHUB STATS ════════════ -->
-<details open>
-<summary><b>📊 GitHub Statistics</b></summary>
-<br>
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hemanth-chakravarthy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanth-chakravarthy&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanth-chakravarthy&theme=tokyonight" alt="hemanth-chakravarthy" />
-</div>
-</details>
-
-<br/>
 
 <!-- ════════════ 🤝 CONNECT WITH ME ════════════ -->
 ## 🤝 Connect With Me
